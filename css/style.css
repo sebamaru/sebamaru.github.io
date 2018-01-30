@@ -1,0 +1,33 @@
+@import url("components/avatars.css");
+@import url("components/cadre.css");
+
+h1 {
+	color: #BC7C33;
+	font-family: 'Supermercado One', cursive;
+}
+h2 {
+	font-size: 30px;
+	font-family: calibri;
+}
+
+p	{
+	font-family: ;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+}
+
+body {
+	background-color: #E6E6E6;
+}
+
+a {
+	text-decoration: none;
+}
+
+h4 {
+	border: solid 2px #34374C;
+	border-radius: 5px;
+}

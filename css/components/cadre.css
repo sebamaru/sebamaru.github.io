@@ -1,0 +1,23 @@
+.first {
+	text-align: center;
+	font-weight: 90;
+	margin: 100px; 
+	padding-top: 50px;
+	border: solid 2px #34374C;
+	border-radius: 5px;
+	box-shadow: 2px 2px 0px grey;
+
+	position: relative;
+
+
+}
+
+.first-circle{
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	border-radius: 50% ;
+}

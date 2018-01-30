@@ -1,0 +1,11 @@
+.network {
+	font-size: 50px;
+}
+
+#abstract {
+	font-weight: bold;
+}
+
+.shadow  {
+	box-shadow: 2px 5px 3px grey;
+}
